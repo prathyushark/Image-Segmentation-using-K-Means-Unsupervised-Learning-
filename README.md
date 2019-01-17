@@ -8,4 +8,4 @@ Plot takes time for every image.
 
 Ignore warnings.
 
-> Check clusteredImages folder for clustered images.
+Check clusteredImages folder for clustered images.
